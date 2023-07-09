@@ -178,7 +178,7 @@ def load_data(partition):
 
     project_path = f"{base_path}/data"
 
-    experiment = '230323'
+    experiment = '230629'
     experiment_path = f"{project_path}/{experiment}"
     pathlib.Path(experiment_path).mkdir(parents=True, exist_ok=True)
 

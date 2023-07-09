@@ -53,13 +53,13 @@ def load_data():
 
     project_path = f"{base_path}/data"
 
-    experiment = '230323'
+    experiment = '230629'
     experiment_path = f"{project_path}/{experiment}"
     pathlib.Path(experiment_path).mkdir(parents=True, exist_ok=True)
 
     partitions = [i for i in range(10)]
     
-    today = '230323'
+    today = '230629'
     
     in_path = f"{experiment_path}/coxph/predictions"
     out_path = f"{experiment_path}/benchmarks"
@@ -81,7 +81,7 @@ def load_data():
     ]
     
     #today = '2022-07-01'
-    eligible_eids = pd.read_feather(f"{experiment_path}/eligible_eids_230323.feather")
+    eligible_eids = pd.read_feather(f"{experiment_path}/eligible_eids_{today}.feather")
     eids_dict = eligible_eids.set_index("endpoint")["eid_list"].to_dict()
 
     return output_path, experiment_path, in_path, out_path, endpoints, scores, prediction_paths, eids_dict
@@ -199,7 +199,7 @@ def main(args):
 
     # prepare setup
 #     today = str(date.today())
-    today = '221109'
+    today = '230629'
     t_eval = 10
     
     # benchmark all models and all partitions
