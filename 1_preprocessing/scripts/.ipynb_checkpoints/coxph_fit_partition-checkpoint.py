@@ -178,7 +178,7 @@ def load_data(partition):
 
     project_path = f"{base_path}/data"
 
-    experiment = '230629'
+    experiment = '231117'
     experiment_path = f"{project_path}/{experiment}"
     pathlib.Path(experiment_path).mkdir(parents=True, exist_ok=True)
 
@@ -199,10 +199,11 @@ def load_data(partition):
     
     #endpoints_md = pd.read_csv(f"{experiment_path}/endpoints.csv")
     #endpoints = sorted(endpoints_md.endpoint.to_list())
-    endpoint_defs = pd.read_feather(f"{base_path}/data/endpoints_epic_md.feather").set_index("endpoint")
+    phecode = pd.read_csv(f"{base_path}/mapping/phecode_strings_V2.csv")[["phecode_string", "sex"]]
+    endpoint_defs = pd.read_feather(f"{base_path}/data/endpoints_epic_md.feather").merge(phecode, how="left", on="phecode_string").set_index("endpoint")#
+    endpoint_defs.iloc[0, endpoint_defs.columns.get_loc('sex')] = "Both"
     endpoints = endpoint_defs.index.to_list()
     
-       
     eligible_eids = pd.read_feather(f"{experiment_path}/eligible_eids_{today}.feather")
     eids_dict = eligible_eids.set_index("endpoint")["eid_list"].to_dict()
 

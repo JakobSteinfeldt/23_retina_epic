@@ -53,13 +53,13 @@ def load_data():
 
     project_path = f"{base_path}/data"
 
-    experiment = '230629'
+    experiment = '231117'
     experiment_path = f"{project_path}/{experiment}"
     pathlib.Path(experiment_path).mkdir(parents=True, exist_ok=True)
 
     partitions = [i for i in range(10)]
     
-    today = '230629'
+    today = experiment
     
     in_path = f"{experiment_path}/coxph/predictions"
     out_path = f"{experiment_path}/benchmarks"
@@ -199,7 +199,7 @@ def main(args):
 
     # prepare setup
 #     today = str(date.today())
-    today = '230629'
+    today = "231117"
     t_eval = 10
     
     # benchmark all models and all partitions

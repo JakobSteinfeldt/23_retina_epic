@@ -1,173 +1,174 @@
 endpoint,phecode_string,phecode_category,delta,pos,highlight
-1,Venous thromboembolism,Cardio,-0.01726446680337801,neg,NO
-1,Skin changes due to chronic exposure to nonionizing radiation,Derm,-0.015651601866717102,neg,NO
-2,Hemorrhoids,Cardio,-0.014427958585529699,neg,NO
-1,Malignant neoplasm of the prostate,Neoplasms,-0.011526492538618038,neg,NO
-2,Malignant neoplasm of male genitalia,Neoplasms,-0.011512600860011268,neg,NO
-1,Inflammatory bowel disease,GI,-0.01055463632741066,neg,NO
-1,All-Cause Death,Death,-0.006794159290447022,neg,YES
-1,Disorders of eyelid function,Eye,-0.0054400125732522175,neg,NO
-2,Other skin and connective tissue disorders,Derm,-0.005133968651462373,neg,NO
-1,Hemorrhage from respiratory passages,Resp,-0.004917415728471375,neg,NO
-1,Rheumatoid arthritis and other inflammatory polyarthropathies,Musc/Skel,-0.0045399546019389,neg,NO
-1,Autoimmune disease,Blood,-0.004525911025276164,neg,NO
-3,Hemo onc - by cell of origin,Neoplasms,-0.004492281961987865,neg,NO
-2,Generalized osteoarthritis,Musc/Skel,-0.004331654460134393,neg,NO
-2,Diverticular disease [Bowel diverticulosis],GI,-0.004052948835734371,neg,NO
-3,Gastro-esophageal reflux disease,GI,-0.003764252369897303,neg,NO
-3,Mitral valve disorders,Cardio,-0.003695029884635548,neg,NO
-4,Malignant neoplasm of the colon,Neoplasms,-0.0032896017133317024,neg,NO
-4,Abdominal pain,GI,-0.0031839913550760768,neg,NO
-4,Pulmonary embolism,Cardio,-0.003177116712966277,neg,NO
-1,Abnormality of gait and mobility,Neuro,-0.0029898289039074766,neg,NO
-5,Abnormalities of heart beat,Cardio,-0.002861803903641713,neg,NO
-5,Disorders of the gallbladder,GI,-0.0027696622344208777,neg,NO
-6,Dysphagia,GI,-0.0027448216200586795,neg,NO
-7,Nausea,GI,-0.0026284223431250475,neg,NO
-2,Alzheimer's disease,Neuro,-0.0026232629151353715,neg,NO
-8,"Other disease of digestive system, NOS",GI,-0.0026029350730689127,neg,NO
-1,Disorders of lipoprotein metabolism and other lipidemias,Metab,-0.002551022298661776,neg,NO
-1,Hearing impairment,Hearing,-0.0025385009834593686,neg,NO
-9,Diaphragmatic hernia [Hiatal hernia],GI,-0.002526408968815841,neg,NO
-1,Benign prostatic hyperplasia,Genitourinary,-0.0021391670373205884,neg,NO
-10,Vomiting,GI,-0.002088430276439346,neg,NO
-1,Anxiety disorders,Mental,-0.0020170445795205105,neg,NO
-11,Other diseases of stomach and duodenum,GI,-0.0019777014011133076,neg,NO
-2,Hematuria,Genitourinary,-0.0018512658002707294,neg,NO
-3,Extrapyramidal and movement disorders,Neuro,-0.0016530460542126257,neg,NO
-12,Nausea and vomiting,GI,-0.0016427657410550411,neg,NO
-3,Osteoarthritis,Musc/Skel,-0.0015839880125594341,neg,NO
-1,Fungal infections,ID,-0.0014830331906499628,neg,NO
-13,Hernia,GI,-0.0014503804496418526,neg,NO
-5,Malignant neoplasm of other and ill-defined sites,Neoplasms,-0.0013914629475239582,neg,NO
-4,Symptoms and signs related to movement disorders,Neuro,-0.0013692395767984644,neg,NO
-3,Other symptoms/disorders or the urinary system,Genitourinary,-0.001262652603171155,neg,NO
-14,Other disorders of the intestines,GI,-0.0012501061907665978,neg,NO
-1,Syncope and collapse,Signs/Symptoms,-0.0012459232819247434,neg,NO
-5,Dementia NOS,Neuro,-0.0011855827089876647,neg,NO
-6,Heart block,Cardio,-0.0011838842094297752,neg,NO
-2,Other respiratory disorders,Resp,-0.0011458749883850317,neg,NO
-6,Benign neoplasm of the digestive organs,Neoplasms,-0.001096256579372623,neg,NO
-2,Mood [affective] disorders,Mental,-9.661107100499833e-4,neg,NO
-7,Malignant neoplasm of the skin,Neoplasms,-9.530773531082337e-4,neg,YES
-15,Gastritis,GI,-8.195898431318516e-4,neg,NO
-6,Dementias and cerebral degeneration,Neuro,-7.266379813829493e-4,neg,YES
-3,Cellulitis and abscess,Derm,-7.179575932687032e-4,neg,NO
-16,Functional intestinal disorder,GI,-6.30736550223554e-4,neg,NO
-8,"Cancer (solid tumor, excluding BCC)",Neoplasms,-5.202366821227544e-4,neg,NO
-2,General symptoms and other findings,Signs/Symptoms,-5.012105122898514e-4,neg,NO
-9,Malignant neoplasm of the digestive organs,Neoplasms,-4.296393082619532e-4,neg,YES
-10,Secondary malignant neoplasm,Neoplasms,-4.212622938812305e-4,neg,NO
-17,Gastrointestinal inflammation,GI,-3.6168186698576354e-4,neg,NO
-3,Nonspecific findings on examination of blood,Signs/Symptoms,-3.322977671111338e-4,neg,NO
-7,Mononeuropathies,Neuro,-1.8712855827424102e-4,neg,NO
-18,Gallstones [Cholelithiasis],GI,-7.386125106184638e-5,neg,NO
-7,Other cerebrovascular disease,Cardio,3.521756641711171e-5,pos,NO
-8,Angina pectoris,Cardio,8.012856619904474e-5,pos,NO
-9,Stroke and transient cerebral ischemic attacks,Cardio,1.4153390491500328e-4,pos,NO
-4,Chrystal arthropathies,Musc/Skel,2.7705178403170105e-4,pos,NO
-2,Volume depletion,Metab,2.8357581120347364e-4,pos,NO
-5,Diffuse diseases of connective tissue,Musc/Skel,3.0922631918406385e-4,pos,NO
-19,Other symptoms involving the digestive system and abdomen,GI,3.3617115217954296e-4,pos,NO
-10,Stroke,Cardio,4.0589428022713703e-4,pos,NO
-4,Retention of urine,Genitourinary,5.916203087339422e-4,pos,NO
-8,Delirium,Neuro,6.036504025350165e-4,pos,NO
-6,Rheumatoid arthritis,Musc/Skel,7.134206653887643e-4,pos,NO
-5,Abnormality of urination,Genitourinary,9.069962160388467e-4,pos,NO
-11,Cardiac arrhythmia and conduction disorders,Cardio,9.1279236251951e-4,pos,NO
-12,Aneurysm or ectasia,Cardio,9.161322756865986e-4,pos,NO
-11,Malignant neoplasm of the colon and rectum,Neoplasms,9.372345813100647e-4,pos,NO
-20,Inguinal hernia,GI,0.001000591731152134,pos,NO
-13,Ischemic heart disease,Cardio,0.0010754598033653195,pos,YES
-21,Diseases of esophagus,GI,0.0010956998466601364,pos,NO
-14,Hypotension,Cardio,0.001355149303747416,pos,NO
-1,Hypothyroidism,Endo,0.0014019871318456945,pos,NO
-15,Heart failure,Cardio,0.0014630749604794824,pos,YES
-3,"Disorders of fluid, electrolyte and acid-base balance",Metab,0.001464030141627437,pos,NO
-16,Atrial fibrillation and flutter,Cardio,0.00155480937865482,pos,NO
-17,Peripheral vascular disease,Cardio,0.0015995299560746523,pos,NO
-7,Hyperuricemia,Musc/Skel,0.0016042971911343074,pos,NO
-18,Aortic valve disorders,Cardio,0.0016209555802731423,pos,NO
-9,Other symptoms involving nervous system,Neuro,0.0016241842137136309,pos,NO
-2,"Bacteremia, Sepsis, and SIRS",ID,0.0017077442630761275,pos,NO
-10,Symptoms and signs involving cognitive functions and awareness,Neuro,0.0017205224754379134,pos,NO
-12,Secondary malignancy of lymph nodes,Neoplasms,0.0018482126012077105,pos,NO
-22,Intestinal infection,GI,0.001954404529236675,pos,NO
-13,Malignant neoplasm of the bladder,Neoplasms,0.002011092313693952,pos,NO
-2,Disorders of thyroid gland,Endo,0.0020439250677995457,pos,NO
-3,Bacterial infections,ID,0.0020781686419018564,pos,NO
-8,Back pain,Musc/Skel,0.0023633512896686915,pos,NO
-9,Gout,Musc/Skel,0.0025301440237322503,pos,NO
-19,Cerebral infarction [Ischemic stroke],Cardio,0.0027567144390170384,pos,YES
-20,Other heart disorders in diseases NEC,Cardio,0.0029344814369687833,pos,NO
-3,Pleural effusion,Resp,0.0030574725976384443,pos,NO
-10,Osteoporosis and low bone density,Musc/Skel,0.003267183018008102,pos,NO
-21,Heart valve disorders,Cardio,0.0034272757391744513,pos,NO
-4,Pneumonia,Resp,0.0034720949013178903,pos,YES
-4,Sepsis,ID,0.003806328575051199,pos,NO
-5,Inhalation lung injury,Resp,0.003972739596091623,pos,NO
-6,Chronic kidney disease,Genitourinary,0.004040294677103984,pos,YES
-3,Major depressive disorder,Mental,0.004103040915753864,pos,YES
-4,Pressure ulcer,Derm,0.004126878819430357,pos,NO
-11,Other symptoms and disorders of the soft tissue,Musc/Skel,0.00451222428422593,pos,NO
-6,Acute respiratory infection,Resp,0.004515795917408971,pos,NO
-5,Infections,ID,0.0051411106550551255,pos,NO
-7,Other disorders of bladder,Genitourinary,0.0052648280342408316,pos,NO
-22,Acute myocardial infarction,Cardio,0.005484504582284,pos,NO
-12,Non-inflammatory spondylopathy,Musc/Skel,0.005515268349445213,pos,NO
-2,Nutritional anemias,Blood,0.005592871230268082,pos,NO
-7,Acute lower respiratory infection,Resp,0.005771307606624476,pos,NO
-14,Malignant neoplasm of the urinary tract,Neoplasms,0.005789903848238964,pos,NO
-13,Osteoporosis,Musc/Skel,0.005922503216241548,pos,YES
-23,Peptic ulcer,GI,0.0060648967938647935,pos,NO
-5,Infection of the skin,Derm,0.006267625151151479,pos,NO
-3,Anemia,Blood,0.006334509715092418,pos,YES
-23,Myocardial infarction [Heart attack],Cardio,0.006551096690923575,pos,YES
-24,Essential hypertension,Cardio,0.006643737211518952,pos,NO
-4,Microcytic anemia,Blood,0.0066482594716547605,pos,NO
-14,Spondylosis,Musc/Skel,0.006890077353594426,pos,NO
-25,Hypertension,Cardio,0.007100062917016592,pos,YES
-4,Disorders of mineral metabolism and mineral deficiencies,Metab,0.007556558007930092,pos,NO
-5,Iron deficiency,Metab,0.007802697963086691,pos,NO
-6,Chronic ulcer of skin,Derm,0.008065143062973623,pos,NO
-6,Disorders of iron metabolism,Metab,0.008178026700112695,pos,NO
-11,"Epilepsy, recurrent seizures, convulsions",Neuro,0.00844549192418298,pos,NO
-26,Rheumatic fever and chronic rheumatic heart diseases,Cardio,0.008539304544842918,pos,NO
-24,Hernia of the abdominal wall,GI,0.008547164715603517,pos,NO
-4,Chest pain,Signs/Symptoms,0.008964624856642456,pos,NO
-27,Chronic rheumatic heart diseases,Cardio,0.009137897163830844,pos,NO
-15,Benign neoplasm of the skin,Neoplasms,0.009280183596072245,pos,NO
-15,Symptoms related to joints,Musc/Skel,0.00934112334915016,pos,NO
-16,Primary osteoarthritis,Musc/Skel,0.00965934848441441,pos,NO
-8,Acute kidney failure,Genitourinary,0.009758954394882668,pos,NO
-5,Symptoms and signs concerning food and fluid intake,Signs/Symptoms,0.009834662396031257,pos,NO
-12,Headache,Neuro,0.01066694081325964,pos,NO
-16,Malignant neoplasm of the breast,Neoplasms,0.011105119073326064,pos,NO
-17,Other arthropathies,Musc/Skel,0.011139115289965695,pos,NO
-5,Iron deficiency anemia,Blood,0.01128114449544182,pos,NO
-25,Disease of anus and rectum,GI,0.012636389697904704,pos,NO
-8,Abnormalities of breathing,Resp,0.015479898253999813,pos,NO
-28,Embolism and thrombosis,Cardio,0.016502322553248905,pos,NO
-9,Emphysema,Resp,0.01713519503097899,pos,NO
-29,Varicose veins,Cardio,0.018142579919302626,pos,NO
-10,Asthma,Resp,0.021071576049115637,pos,NO
-26,Gastrointestinal obstruction,GI,0.022839757318272313,pos,NO
-6,Viral infections,ID,0.023396024760639123,pos,NO
-11,Chronic obstructive pulmonary disease [COPD],Resp,0.02485162346168851,pos,YES
-30,Venous insufficiency,Cardio,0.025391640212244326,pos,NO
-3,Diabetes mellitus,Endo,0.025863534014163136,pos,YES
-4,Type 2 diabetes,Endo,0.026921038309038414,pos,NO
-31,Varicose veins of lower extremities,Cardio,0.027290785780859916,pos,NO
-12,Respiratory failure,Resp,0.028821370659314227,pos,NO
-27,Lesions of mouth,GI,0.029352333403045328,pos,NO
-13,Pulmonary insufficiency and acute respiratory distress syndrome,Resp,0.03159814732090682,pos,NO
-7,Overweight and obesity,Metab,0.0392484387105313,pos,NO
-18,Deforming dorsopathies,Musc/Skel,0.041336857043074104,pos,NO
-2,Cataract,Eye,0.04240652840207765,pos,YES
-9,Kidney stone disease,Genitourinary,0.04351603875298593,pos,NO
-28,Other disorders of liver,GI,0.04825604036748471,pos,NO
-3,Disorders of the retina,Eye,0.05315498463118867,pos,NO
-4,Abnormal intraocular pressure,Eye,0.059196430086564666,pos,NO
-4,Current tobacco use and nicotine dependence,Mental,0.07495111807749921,pos,NO
-5,Substance dependence,Mental,0.0864337480874956,pos,NO
-6,"Substance abuse, dependence, and withdrawl",Mental,0.08756049878535355,pos,NO
+1,Venous thromboembolism,Cardio,-0.014414454187981096,neg,NO
+1,Deforming dorsopathies,Musc/Skel,-0.012225247244724902,neg,NO
+2,Pulmonary embolism,Cardio,-0.011563623649224697,neg,NO
+3,Mitral valve disorders,Cardio,-0.011231008464723191,neg,NO
+1,Abnormalities of breathing,Resp,-0.010670994285845281,neg,NO
+1,Family history of other condition,Stat,-0.010257201679385708,neg,NO
+1,Chest pain,Signs/Symptoms,-0.008103604799953423,neg,NO
+2,Family history of malignant neoplasm,Stat,-0.008032262987254013,neg,NO
+2,Spondylosis,Musc/Skel,-0.007960592533922506,neg,NO
+1,Headache,Neuro,-0.007886616258114543,neg,NO
+2,Nonspecific findings on examination of blood,Signs/Symptoms,-0.007325948772425317,neg,NO
+1,Secondary malignancy of lymph nodes,Neoplasms,-0.006815937871245237,neg,NO
+2,Malignant neoplasm of the colon,Neoplasms,-0.0062877329133845805,neg,NO
+3,Primary osteoarthritis,Musc/Skel,-0.00557365708169022,neg,NO
+3,Benign neoplasm of the skin,Neoplasms,-0.004151336352341217,neg,NO
+4,Generalized osteoarthritis,Musc/Skel,-0.004046781949513134,neg,NO
+2,Extrapyramidal and movement disorders,Neuro,-0.003546403323448577,neg,NO
+1,Functional intestinal disorder,GI,-0.0031328743315999774,neg,NO
+1,Death,Event,-0.002728421549182458,neg,YES
+4,Malignant neoplasm of the bladder,Neoplasms,-0.002675721904113748,neg,NO
+2,Diaphragmatic hernia [Hiatal hernia],GI,-0.0026286078825777937,neg,NO
+4,Myocardial infarction [Heart attack],Cardio,-0.0025531608281813556,neg,YES
+3,Other diseases of stomach and duodenum,GI,-0.002543687679354145,neg,NO
+5,Back pain,Musc/Skel,-0.002353970498414071,neg,NO
+5,Hemo onc - by cell of origin,Neoplasms,-0.0020626609159206666,neg,NO
+6,Osteoarthritis,Musc/Skel,-0.0016944548083269173,neg,NO
+5,Acute myocardial infarction,Cardio,-0.001534799047489821,neg,NO
+1,Hearing impairment,Hearing,-0.00150240008919178,neg,NO
+3,Abnormality of gait and mobility,Neuro,-0.0014938858653310016,neg,NO
+4,Gastro-esophageal reflux disease,GI,-0.00148125343958877,neg,NO
+5,Diseases of esophagus,GI,-0.0013518655403209623,neg,NO
+3,Symptoms and signs concerning food and fluid intake,Signs/Symptoms,-0.0012675161259497747,neg,NO
+6,Aneurysm or ectasia,Cardio,-0.0012544540203325294,neg,NO
+4,"Epilepsy, recurrent seizures, convulsions",Neuro,-0.001137572377826468,neg,NO
+1,Disorders of lipoprotein metabolism and other lipidemias,Metab,-0.0011304177961060091,neg,NO
+5,Symptoms and signs related to movement disorders,Neuro,-0.0011141542065400967,neg,NO
+1,Benign prostatic hyperplasia,Genitourinary,-0.0010878398561149916,neg,NO
+6,Malignant neoplasm of male genitalia,Neoplasms,-0.0010216300652708399,neg,NO
+7,Malignant neoplasm of the skin,Neoplasms,-9.051940638399314e-4,neg,YES
+2,Retention of urine,Genitourinary,-8.654880621417615e-4,neg,NO
+7,Cerebral infarction [Ischemic stroke],Cardio,-8.525980451268844e-4,neg,YES
+8,Stroke and transient cerebral ischemic attacks,Cardio,-7.634855954279929e-4,neg,NO
+1,Sepsis,ID,-6.610652744166168e-4,neg,NO
+9,Stroke,Cardio,-6.548690137364033e-4,neg,NO
+1,Other skin and connective tissue disorders,Derm,-6.342625256138268e-4,neg,NO
+1,Disorders of eyelid function,Eye,-6.271341288501264e-4,neg,NO
+4,Syncope and collapse,Signs/Symptoms,-6.082006428317355e-4,neg,NO
+6,Mononeuropathies,Neuro,-4.491867028432739e-4,neg,NO
+2,"Bacteremia, Sepsis, and SIRS",ID,-3.991436219131783e-4,neg,NO
+6,Diverticular disease [Bowel diverticulosis],GI,-2.869948557183699e-4,neg,NO
+7,Dysphagia,GI,-1.3193583085197025e-4,neg,NO
+10,Heart block,Cardio,-1.0847154837717587e-4,neg,NO
+3,Viral infections,ID,-5.7671942039372315e-5,neg,NO
+1,Anxiety disorders,Mental,-4.839048220839359e-5,neg,NO
+8,Hernia,GI,-4.196517328303173e-5,neg,NO
+7,Diffuse diseases of connective tissue,Musc/Skel,-2.237707361563146e-5,neg,NO
+7,Delirium,Neuro,6.119669576470921e-5,pos,NO
+8,Symptoms and signs involving cognitive functions and awareness,Neuro,1.3985382262399204e-4,pos,NO
+3,Other symptoms/disorders or the urinary system,Genitourinary,1.5306932334807621e-4,pos,NO
+4,Hematuria,Genitourinary,2.2084913902553627e-4,pos,NO
+8,Malignant neoplasm of the urinary tract,Neoplasms,3.535805610502818e-4,pos,NO
+2,Volume depletion,Metab,3.62445299443348e-4,pos,NO
+11,Other cerebrovascular disease,Cardio,4.912469654317353e-4,pos,NO
+8,Non-inflammatory spondylopathy,Musc/Skel,5.770265004291231e-4,pos,NO
+12,Peripheral vascular disease,Cardio,6.425582117308704e-4,pos,NO
+9,Disorders of the gallbladder,GI,7.099137688234558e-4,pos,NO
+9,Malignant neoplasm of the prostate,Neoplasms,7.587466213529459e-4,pos,NO
+13,Ischemic heart disease,Cardio,7.854694899526726e-4,pos,YES
+14,Atrial fibrillation and flutter,Cardio,8.400088079960621e-4,pos,NO
+5,Abnormality of urination,Genitourinary,8.407543585689514e-4,pos,NO
+10,Intestinal infection,GI,8.975850341106928e-4,pos,NO
+10,"Cancer (solid tumor, excluding BCC)",Neoplasms,0.001043956067646734,pos,NO
+11,Other symptoms involving the digestive system and abdomen,GI,0.0010730212496875002,pos,NO
+2,Mood [affective] disorders,Mental,0.0012549179878827421,pos,NO
+11,Malignant neoplasm of other and ill-defined sites,Neoplasms,0.0014729290372526016,pos,NO
+9,Osteoporosis and low bone density,Musc/Skel,0.0014856022516619438,pos,NO
+2,Skin changes due to chronic exposure to nonionizing radiation,Derm,0.0015248118559666457,pos,NO
+15,Heart valve disorders,Cardio,0.001591047011215374,pos,NO
+12,Gastrointestinal obstruction,GI,0.0015935532288576248,pos,NO
+9,Dementia NOS,Neuro,0.0016779673556825414,pos,NO
+12,Secondary malignant neoplasm,Neoplasms,0.0016913919747206796,pos,NO
+10,Osteoporosis,Musc/Skel,0.0017662644264403449,pos,YES
+13,Gastritis,GI,0.0018279138745533885,pos,NO
+16,Hypotension,Cardio,0.0019007415241626413,pos,NO
+14,Abdominal pain,GI,0.001976120361110778,pos,NO
+15,Nausea and vomiting,GI,0.0021015590828012964,pos,NO
+17,Cardiac arrhythmia and conduction disorders,Cardio,0.002263581801686676,pos,NO
+18,Other heart disorders in diseases NEC,Cardio,0.00250775642184764,pos,NO
+3,Major depressive disorder,Mental,0.0026084217718471137,pos,YES
+19,Abnormalities of heart beat,Cardio,0.0027556589549031507,pos,NO
+10,Dementias and cerebral degeneration,Neuro,0.0028358776205710257,pos,YES
+16,Vomiting,GI,0.0028658164896520066,pos,NO
+11,Gout,Musc/Skel,0.002897358462573052,pos,NO
+20,Hemorrhoids,Cardio,0.002975828945435355,pos,NO
+11,Other symptoms involving nervous system,Neuro,0.0031444952069628607,pos,NO
+17,Nausea,GI,0.0032724132391741545,pos,NO
+21,Heart failure,Cardio,0.003397309793042591,pos,YES
+3,Iron deficiency,Metab,0.00343681143206076,pos,NO
+22,Essential hypertension,Cardio,0.0035549161778981597,pos,NO
+1,Hypothyroidism,Endo,0.0036311931215030624,pos,NO
+4,Disorders of mineral metabolism and mineral deficiencies,Metab,0.0036476013270377305,pos,NO
+3,Cellulitis and abscess,Derm,0.0037147617733069294,pos,NO
+5,"Disorders of fluid, electrolyte and acid-base balance",Metab,0.003764367268354718,pos,NO
+6,Other disorders of bladder,Genitourinary,0.003783735259310972,pos,NO
+12,Hyperuricemia,Musc/Skel,0.0037878488314487813,pos,NO
+13,Malignant neoplasm of the colon and rectum,Neoplasms,0.0038155619190257672,pos,NO
+5,General symptoms and other findings,Signs/Symptoms,0.0040414477896731915,pos,NO
+2,Pleural effusion,Resp,0.004195481390777744,pos,NO
+7,Chronic kidney disease,Genitourinary,0.004333798732055305,pos,YES
+4,Bacterial infections,ID,0.004361077637599076,pos,NO
+3,Pneumonia,Resp,0.004413704205565194,pos,YES
+6,Disorders of iron metabolism,Metab,0.004475895930315554,pos,NO
+13,Chrystal arthropathies,Musc/Skel,0.004499138240883771,pos,NO
+1,Microcytic anemia,Blood,0.0045103539405415005,pos,NO
+2,Nutritional anemias,Blood,0.004688506150982541,pos,NO
+23,Hypertension,Cardio,0.0049293167608597255,pos,YES
+2,Disorders of thyroid gland,Endo,0.00498063663298709,pos,NO
+3,Iron deficiency anemia,Blood,0.005234848833434724,pos,NO
+14,Symptoms related to joints,Musc/Skel,0.0055937702056330085,pos,NO
+5,Infections,ID,0.0057712005414510825,pos,NO
+4,Acute lower respiratory infection,Resp,0.005775143387127257,pos,NO
+8,Acute kidney failure,Genitourinary,0.005946621150427656,pos,NO
+18,Gastrointestinal inflammation,GI,0.005962843322660172,pos,NO
+4,Anemia,Blood,0.006233016195006158,pos,YES
+19,Other disorders of the intestines,GI,0.0064266593391416604,pos,NO
+20,Gallstones [Cholelithiasis],GI,0.006473320186673792,pos,NO
+14,Benign neoplasm of the digestive organs,Neoplasms,0.0065232985500190965,pos,NO
+24,Aortic valve disorders,Cardio,0.006803802920449686,pos,NO
+25,Rheumatic fever and chronic rheumatic heart diseases,Cardio,0.006804056542498771,pos,NO
+26,Angina pectoris,Cardio,0.007132945093322962,pos,NO
+5,Acute respiratory infection,Resp,0.008020457477820653,pos,NO
+21,Lesions of mouth,GI,0.008203126992890664,pos,NO
+6,Other respiratory disorders,Resp,0.009105781407662494,pos,NO
+12,Alzheimer's disease,Neuro,0.00956061765624755,pos,NO
+15,Malignant neoplasm of the digestive organs,Neoplasms,0.010001345256367034,pos,YES
+27,Chronic rheumatic heart diseases,Cardio,0.011071087866146745,pos,NO
+22,Peptic ulcer,GI,0.011787860144955364,pos,NO
+23,Inguinal hernia,GI,0.013258784521356315,pos,NO
+9,Kidney stone disease,Genitourinary,0.014312394025880859,pos,NO
+4,Infection of the skin,Derm,0.014464077449141355,pos,NO
+28,Embolism and thrombosis,Cardio,0.014611484277635922,pos,NO
+24,Hernia of the abdominal wall,GI,0.014773532289839741,pos,NO
+15,Other arthropathies,Musc/Skel,0.017322594317111972,pos,NO
+16,Rheumatoid arthritis,Musc/Skel,0.017341278746987376,pos,NO
+17,Rheumatoid arthritis and other inflammatory polyarthropathies,Musc/Skel,0.018614839241007153,pos,NO
+5,Autoimmune disease,Blood,0.019281054886416293,pos,NO
+16,Malignant neoplasm of the breast,Neoplasms,0.019555798573401062,pos,NO
+5,Pressure ulcer,Derm,0.019710812868868166,pos,NO
+6,Chronic ulcer of skin,Derm,0.020143401681708084,pos,NO
+3,Type 2 diabetes,Endo,0.020968231092122813,pos,NO
+18,Other symptoms and disorders of the soft tissue,Musc/Skel,0.021851755300825837,pos,NO
+6,Fungal infections,ID,0.022533171100760863,pos,NO
+4,Diabetes mellitus,Endo,0.022914896132208762,pos,YES
+25,Disease of anus and rectum,GI,0.022953917633484533,pos,NO
+29,Venous insufficiency,Cardio,0.02528283914224977,pos,NO
+7,Hemorrhage from respiratory passages,Resp,0.0272055881329738,pos,NO
+2,Disorders of the retina,Eye,0.027657192982982193,pos,NO
+8,Chronic obstructive pulmonary disease [COPD],Resp,0.03176346252761464,pos,YES
+9,Emphysema,Resp,0.033377922749458167,pos,NO
+30,Varicose veins of lower extremities,Cardio,0.03486046391701614,pos,NO
+31,Varicose veins,Cardio,0.039494118802654854,pos,NO
+3,Abnormal intraocular pressure,Eye,0.04119283322174766,pos,NO
+10,Respiratory failure,Resp,0.04257761974455854,pos,NO
+26,Inflammatory bowel disease,GI,0.04591135092749399,pos,NO
+11,Asthma,Resp,0.047180801503750536,pos,NO
+12,Pulmonary insufficiency and acute respiratory distress syndrome,Resp,0.047943756906120294,pos,NO
+4,Cataract,Eye,0.04814401534570961,pos,YES
+27,Other disorders of liver,GI,0.07864423186041436,pos,NO
+7,Overweight and obesity,Metab,0.0895905605037815,pos,NO
+4,"Substance abuse, dependence, and withdrawl",Mental,0.10178873242195063,pos,NO
+5,Substance dependence,Mental,0.1035387716642232,pos,NO
+6,Current tobacco use and nicotine dependence,Mental,0.10524797088510796,pos,NO
+7,Nicotine dependence (current and history of),Mental,0.11146930859633508,pos,NO
